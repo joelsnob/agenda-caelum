@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Agenda</string>
+    <string name="action_settings">Configuraces</string>
+    
+    <!-- ListaAlunosActivity -->
+    <string name="menu_novo">Novo</string>
+    <string name="menu_mapa">Mapa</string>
+    <string name="menu_mais_opcoes">Mais opcoes</string>
+    <string name="menu_enviar_alunos">Sincronizar</string>
+    <string name="menu_receber_provas">Baixar Provas</string>
+    <string name="menu_preferencias">Preferencias</string>
+    <string name="menu_aluno_ligar">Chamar</string>
+    <string name="menu_aluno_sms">Enviar SMS</string>
+    <string name="menu_aluno_mapa">Ver no Mapa</string>
+    <string name="menu_aluno_site">Acessar o site</string>
+    <string name="menu_aluno_email">Enviar E-mail</string>
+    <string name="menu_aluno_deletar">Apagar</string>
+    <string name="imagem_aluno_lista">Foto do aluno</string>    
+            
+    <!-- FormularioActivity -->
+    <string name="title_activity_formulario">Cadastro</string>
+    <string name="title_activity_formulario_edicao">Edicao</string>
+    <string name="img_formulario">Caelum - Cadastro de Alunos</string>
+    <string name="lbl_formulario_nome">Nome:</string>
+    <string name="hint_formulario_nome">Digite o seu nome aqui</string>
+    <string name="lbl_formulario_endereco">Endereco:</string>
+    <string name="hint_formulario_endereco">Digite o seu endereco aqui</string>
+    <string name="lbl_formulario_telefone">Telefone:</string>
+    <string name="hint_formulario_telefone">Digite seu telefone aqui:</string>
+    <string name="lbl_formulario_site">Site:</string>
+    <string name="hint_formulario_site">Digite seu site aqui</string>
+    <string name="btn_formulario_inserir">Inserir</string>
+    
+</resources>

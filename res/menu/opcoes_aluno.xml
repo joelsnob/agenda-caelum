@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_aluno_ligar"
+        android:title="@string/menu_aluno_ligar"/>
+
+    <item
+        android:id="@+id/menu_aluno_sms"
+        android:title="@string/menu_aluno_sms"/>
+    
+    <item
+        android:id="@+id/menu_aluno_mapa"
+        android:title="@string/menu_aluno_mapa"/>
+    
+    <item
+        android:id="@+id/menu_aluno_site"
+        android:title="@string/menu_aluno_site"/>
+    
+    <item
+        android:id="@+id/menu_aluno_email"
+        android:title="@string/menu_aluno_email"/>
+    
+    <item
+        android:id="@+id/menu_aluno_deletar"
+        android:title="@string/menu_aluno_deletar"/>
+    
+</menu>
